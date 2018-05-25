@@ -68,7 +68,7 @@ regexp.test(ctx.req.path);
 不过 path-to-regexp 的后两个参数被省略了。有需求 pr 和 issue
 
 #### option
-跟 http-proxy-middleware 的一样，匹配到某个路由就使用这个配置。
+跟 http-proxy-middleware 的一样，匹配到某个路由就使用这个配置。
 
 
 ### Tips
