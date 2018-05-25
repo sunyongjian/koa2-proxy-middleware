@@ -65,7 +65,7 @@ const regexp = pathToRegexp('route-key');
 regexp.test(ctx.req.path);
 ```
 #### option
-The option corresponding to key and like http-proxy-middleware.
+The option corresponding to key and like http-proxy-middleware.
 
 
 ### Tips
