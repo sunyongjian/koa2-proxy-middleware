@@ -1,13 +1,14 @@
 ## Introduction
 A koa2 middleware by means of [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware).
 
+[中文](https://github.com/sunyongjian/koa2-proxy-middleware/blob/master/README_CN.md)
 ## Install
 
 `$ npm install --save-dev koa2-proxy-middleware`
 
 ## Usage
 This is a very simple usage.
-If you are familiar with the use of http-proxy-middleware and path-to-regexp.
+If you are familiar with the use of http-proxy-middleware and [path-to-regexp](https://github.com/pillarjs/path-to-regexp).
 
 
 ### Example
