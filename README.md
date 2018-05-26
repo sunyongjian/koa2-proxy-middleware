@@ -30,7 +30,8 @@ const options = {
       target: 'http://localhost:3001',
       changeOrigin: true,
     },
-    '/api/*': {
+    // (.*) means anything
+    '/api/(.*)': {
       target: 'http://10.94.123.123:1234',
       changeOrigin: true,
       pathRewrite: {
