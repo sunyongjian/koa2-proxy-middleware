@@ -1,6 +1,6 @@
 {
   "name": "koa2-proxy-middleware",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a koa2 proxy middleware by means of http-proxy-middleware",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
