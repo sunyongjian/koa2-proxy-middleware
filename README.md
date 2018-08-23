@@ -1,6 +1,9 @@
 ## Introduction
 A koa2 middleware by means of [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware).
 
+[![npm downloads](https://img.shields.io/npm/dm/koa2-proxy-middleware.svg?style=flat-square)](https://www.npmjs.com/package/koa2-proxy-middleware)
+[![npm version](https://img.shields.io/npm/v/koa2-proxy-middleware.svg?style=flat-square)](https://www.npmjs.com/package/koa2-proxy-middleware)
+
 [中文](https://github.com/sunyongjian/koa2-proxy-middleware/blob/master/README_CN.md)
 ## Install
 
